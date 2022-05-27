@@ -2,10 +2,10 @@
 
 
 <ul>
-  <li> Decrir les 5 what/why/where/when/who</li>
-  <li>utiliser Jirq software || trello </li>
-  <li>creer la base de donnees</li>
-  <li>Remplir la base de donnees</li>
-  <li>lister les donnees enregistrees dans la base de donnees </li>
-  <li>installer les outils postgresql</li>
+  <li> Décrier les 5 what/why/where/when/who </li>
+  <li> Utiliser Jira software || trello </li>
+  <li> Créer la base de données</li>
+  <li> Remplir la base de données</li>
+  <li>lister les données enregistrées dans la base de données </li>
+  <li> installer les outils postgresql</li>
 </ul>
