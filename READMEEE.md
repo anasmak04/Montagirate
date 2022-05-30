@@ -1,2 +1,0 @@
-# Montagirate
-database with postgresql
